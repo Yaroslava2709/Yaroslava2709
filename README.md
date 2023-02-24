@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="profilepic.JPG">
- <source media="(prefers-color-scheme: light)" srcset="profilepic.JPG">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 ## Hi there 👋
 
 My name is **Iaroslava**!
