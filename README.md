@@ -2,13 +2,13 @@
 
 My name is **Iaroslava**!
 
-Recently I have successfully completed a Software Engineering Bootcamp with a full scholarship award from the Department for Education (certificate from Imperial College London in partnership with HyperionDev). During my studies I significantly improved my coding skills with a key focus on **Python** and **SQL**.  
+Recently I have successfully completed a Software Engineering Bootcamp at Imperial College London (in partnership with HyperionDev) with a full scholarship award from the DfE. During my studies I significantly improved my coding skills with a key focus on **Python** and **SQL**.  
 
 Please see my answers below to find out more about me. 
 
 **(1) Why am I interested in SWE and coding?**
 
-The Software Engineering is one of the most interesting and intellectually challenging subjects. Since high school, I have been really interested in solving different math problems and I always worked hard to get better in math-related fields through my education.  
+Software Engineering is one of the most interesting and intellectually challenging subjects. Since high school I have been really interested in solving different math problems and I always worked hard to get better in math-related fields through my education.  
 
 **(2) What am I most excited about in the SWE space?** 
 
