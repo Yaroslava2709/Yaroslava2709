@@ -2,7 +2,7 @@
 
 My name is **Iaroslava**!
 
-Currently, I am pursuing a Software Engineering Bootcamp at HyperionDev (with a full scholarship award from the Department for Education) to improve my coding skills in **Python**, **SQL** and **Django**.  
+Recently I successfully completed a Software Engineering Bootcamp with a full scholarship award from the Department for Education (certificate from Imperial College London in partnership with HyperionDev). During my studies I significantly improved my coding skills with a key focus on **Python** and **SQL**.  
 
 Please see my answers below to find out more about me. 
 
